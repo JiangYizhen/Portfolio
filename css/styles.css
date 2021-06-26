@@ -1,0 +1,91 @@
+body {background-color: #FFEEDB;
+margin:10px;
+} 
+hr {border:dotted;
+    background-color: burlywood;}
+h1 {margin: 0px;
+border:20px;
+text-align: center;
+font-family: 'Sacramento', cursive;}
+p {padding: 50px;
+    text-align :center;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{font-family: 'Sacramento', cursive;
+text-align: center;}
+.topcontainer {background-color: antiquewhite;
+    position:relative;
+    padding-top: 100px;
+    height: 100%;
+}
+.cloud1 {
+    position:relative;
+    left:900px;
+}
+.cloud2 {position:relative;
+bottom: 350px;
+left:300px;}
+.mountain {position:relative;
+left: 250px;}
+.selfie{ position:relative;
+left:100px;
+width:200px;}
+
+.line {background-color:#ECDBBA;
+height:30px;
+margin:10px;}
+
+.middlecontainer {background-color: antiquewhite;
+    position:relative;
+    padding-top: 20px;
+    height:100%
+}
+.p2{display:inline-block;
+    position:absolute;
+    text-align:justify;
+    left:400px;
+}
+.profile {margin:20px;
+padding:50px;}
+
+.line {background-color:#ECDBBA;
+height:30px;
+margin:10px;}
+
+.bottomcontainer {background-color:antiquewhite;
+height:200px;
+margin:10px;
+text-align: center; }
+
+.skill {width:100px;
+    left:100px;
+    width: 200px;
+    position:relative;
+}
+.p3 {display: inline-block;
+    text-align: justify;
+   left: 200px;
+    position: relative;
+    }
+.p4 {display: inline-block;
+    text-align: justify;
+    left: 450px;
+    bottom:80px;
+    position: relative;
+    }
+.pic3 {width: 200px;
+    height:200px;
+    left:150px;
+position:relative;}
+
+.skills{ margin:20px;
+padding:30px;}
+.contact_content{display: inline-block;
+    position:relative;
+    left:140px;
+    bottom:100px;
+}
+.btn {position:relative;
+    left:150px;
+    bottom:100px;
+}
